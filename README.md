@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![input 10](https://github.com/KRISHNARAJ-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559695/ee309a68-effc-40b4-893d-19d0b63836c2)
+<img height=40% width=30% src="https://github.com/KRISHNARAJ-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559695/ee309a68-effc-40b4-893d-19d0b63836c2">
 
 ### Output:
-![output 10](https://github.com/KRISHNARAJ-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559695/25542f11-9bbc-47fb-96f1-9da68dc5725f)
+<img height=40% width=30% src="https://github.com/KRISHNARAJ-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559695/25542f11-9bbc-47fb-96f1-9da68dc5725f">
 
 
 ### Name: KRISHNARAJ D
